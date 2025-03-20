@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "jolly-union-b176",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "30fcc8d8-7419-4fbf-b3c9-ccd4032ef7af",
+      "database_name": "autumn-bush-a692-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
